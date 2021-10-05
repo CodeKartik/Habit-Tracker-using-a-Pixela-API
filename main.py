@@ -2,8 +2,8 @@ import requests
 from datetime import datetime
 
 PIXELA_ENDPOINT = "https://pixe.la/v1/users"
-USERNAME = "kartik"
-TOKEN = "sffbskhbvadbkbvv"
+USERNAME = "your_user_name"
+TOKEN = "Your_API_key"
 GRAPH_ID = "graph1"
 
 user_params = {
